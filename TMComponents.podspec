@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   spec.summary      = "A short description of TMComponents."
 
 
-  spec.description  = “The components of the TennisMoment”
+  spec.description  = “Some reuseable components ”
 
   spec.homepage     = "https://github.com/RoyJoel/TMComponents"
 
