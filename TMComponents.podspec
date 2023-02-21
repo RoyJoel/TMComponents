@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   spec.description  = <<-DESC
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/TMComponents"
+  spec.homepage     = "https://github.com/RoyJoel/TMComponents"
 
 
   spec.license      = "MIT (example)"
@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
   spec.author             = { "Jason Zhang" => "1573989249@qq.com" }
  
 
-  spec.source       = { :git => "http://EXAMPLE/TMComponents.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/RoyJoel/TMComponents.git", :tag => "#{2.0}" }
 
 
  
