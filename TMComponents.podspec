@@ -29,7 +29,7 @@ DESC
 
  
 
-  spec.source_files  = "Classes", "Classes/**/*.{h,m}"
+  spec.source_files  = "Sources/*.swift"
   spec.exclude_files = "Classes/Exclude"
 
 
