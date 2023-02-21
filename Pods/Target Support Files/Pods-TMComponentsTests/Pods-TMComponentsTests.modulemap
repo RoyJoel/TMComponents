@@ -1,0 +1,6 @@
+framework module Pods_TMComponentsTests {
+  umbrella header "Pods-TMComponentsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

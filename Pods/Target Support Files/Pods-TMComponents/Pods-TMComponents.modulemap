@@ -1,0 +1,6 @@
+framework module Pods_TMComponents {
+  umbrella header "Pods-TMComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
